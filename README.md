@@ -59,7 +59,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![image](https://github.com/Asilsathik/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119476247/5c58f4b4-dc8a-4979-860a-fa1df3d12cff)
+![image](https://github.com/Asilsathik/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119476247/31793195-f0d7-4357-8ef4-dddad8bc38eb)
+
 
 ### Name: M.MOHAMED ASIL
 ### Register Number:212222230080
